@@ -5,3 +5,8 @@
 ### Assets\VrMovie\Scenes\VrMovieModeSwitcher.unity
 モノラル・ステレオの360動画および180動画の4種類を切り替え比較できるシーン。
 editor上で 左クリック か、 Oculus Goにビルドして Trigger or Pad で動画切り替え。
+
+### Assets\VrMovie\Scenes\FpsSwitcher.unity
+30fpsと60fpsのVR180動画の2種類を切り替え比較できるシーン。
+editor上で 左クリック か、 Oculus Goにビルドして Trigger or Pad で動画切り替え。
+60fpsの方が動画2週目以降がfpsが落ちている気配を感じる。
