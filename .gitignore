@@ -33,3 +33,6 @@ sysinfo.txt
 
 # Builds
 *.apk
+.idea/
+Assets/Plugins/Editor/
+Assets/Plugins/Editor.meta
