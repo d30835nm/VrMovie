@@ -12,3 +12,16 @@ editor上で 左クリック か、 Oculus Goにビルドして Trigger or Pad �
 editor上で 左クリック か、 Oculus Goにビルドして Trigger or Pad で動画切り替え。
 60fpsの方が動画2週目以降がfpsが落ちている気配を感じる。
 [FpsSwicher20190429v1.apk](https://drive.google.com/open?id=1O-SvyNc0O_vYpCKoTWiZTC_sd4SEDJoW)
+
+## サンプル動画
+### Assets\VrMovie\Videos\Sample01
+モノラル・ステレオの360動画および180動画サンプル
+VrMovieModeSwitcher.unityで利用
+
+### Assets\VrMovie\Videos\Sample02
+30および60fpsのVR180動画サンプル
+FpsSwitcher.unityで利用
+
+### Assets\VrMovie\Videos\Sample03
+H265及びH264のVR180動画サンプル
+利用シーンなし
