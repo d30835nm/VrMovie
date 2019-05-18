@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/VrMovie/Scenes/FpsSwitcher.unity
     guid: 145725b7464c5644181a4d7c00b8bcb1
+  - enabled: 0
+    path: Assets/VrMovie/Scenes/VrMovieAndObjects.unity
+    guid: 7293a5ce0da7f084db2f1d95da2903fb
   m_configObjects: {}
