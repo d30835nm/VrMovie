@@ -240,7 +240,7 @@ VideoPlayer:
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
-  m_TargetTexture: {fileID: 8400000, guid: 5f4be5a7976ab2f418c04b49e9f61a0c, type: 2}
+  m_TargetTexture: {fileID: 8400000, guid: 40c269bd7404f9b4c8fcf232c808cb37, type: 2}
   m_TimeReference: 0
   m_TargetMaterialRenderer: {fileID: 0}
   m_TargetMaterialProperty: _MainTex
@@ -323,7 +323,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff633efafe7b6cc40bd444cb936f14af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vrMovieSkybox: {fileID: 2100000, guid: 417dba37b0ba46941a0b96472dd963dc, type: 2}
+  vrMovieSkybox: {fileID: 2100000, guid: 3e0ab057ba1de334aa82f424e2e32c40, type: 2}
 --- !u!4 &503658615
 Transform:
   m_ObjectHideFlags: 0
